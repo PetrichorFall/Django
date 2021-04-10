@@ -1,0 +1,3 @@
+SUCCESS_CODE = '0000'
+FAIL_CODE = '9999'
+CODE_KEY = 'code'
